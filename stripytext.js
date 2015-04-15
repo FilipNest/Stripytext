@@ -10,6 +10,8 @@
       var stripe = document.createElement("span");
 
       stripe.setAttribute("data-stripe", name);
+      
+      stripe.setAttribute("aria-hidden", "true");
 
       stripe.style.position = "absolute";
 
