@@ -1,6 +1,6 @@
 # Stripytext
 
-Stripytext is a little bit of JavaScript that gives your HTML font stripes. It's probably been done better elsewhere.
+Stripytext is a little bit of JavaScript that gives your HTML font stripes. It should work with any font/style.
 
 ![Stripytext](http://filipnest.com/stripytext/demoimage.png)
 
@@ -20,7 +20,7 @@ stripy(document.querySelector("h1"), 8);
 
 ```
 
-You can then do what you want with the stripes such as style them individually with CSS. They've all got unique data-stripe attribute numbers. Animating the colour changes with CSS transitions could be fun so I've left the colour choosing up to you.
+You can then do what you want with the stripes such as style them individually with CSS. For simple selecting they've all got unique data-stripe attribute numbers. Animating the colour changes with CSS transitions could be fun so I've left the colour choosing up to you.
 
 ```CSS
 
@@ -55,3 +55,5 @@ You can then do what you want with the stripes such as style them individually w
   ```
   
 That's it. It's probably buggy as it's just a doodle done in an evening but if you want to improve it just put in a pull request or shout at me.
+
+If you make something pretty, please let me know as I'd love to see it.
