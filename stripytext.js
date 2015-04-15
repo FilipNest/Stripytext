@@ -1,6 +1,7 @@
   var stripy = function (element, stripes) {
 
     element.style.position = "relative";
+    element.style.display = "block";
 
     var text = element.innerHTML;
 
