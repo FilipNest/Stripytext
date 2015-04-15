@@ -54,6 +54,6 @@ You can then do what you want with the stripes such as style them individually w
   
   ```
   
-That's it. It's probably buggy as it's just a doodle done in an evening but if you want to improve it just put in a pull request or shout at me.
+That's it. It's probably buggy as it's just a doodle done in an evening but if you want to improve it put in a pull request or shout at me.
 
 If you make something pretty, please let me know as I'd love to see it.
