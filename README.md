@@ -12,7 +12,7 @@ No other libraries are necessary. Just add the stripytext.js file to your page. 
 
 ```
 
-Then give an element stripes by passing in the HTML element plus a number of stripes you want to the stripy() function.
+Then give an element stripes by passing in the HTML element (however you want to select it, pure JavaScript, jQuery...) plus a number of stripes you want to the stripy() function.
 
 ```Javascript
 
