@@ -4,7 +4,7 @@ Stripytext is a little bit of JavaScript that gives your HTML font stripes. It s
 
 ![Stripytext](http://filipnest.com/stripytext/demoimage.png)
 
-No other libraries are necessary. Just add the stripytext.js file to your page. I've even uploaded it to my server if you don't want to download such a silly thing before trying it:
+No other libraries are necessary. Just add the stripytext.js file to your page. I've uploaded it to my server if you don't want to download such a silly thing before trying it:
 
 ```HTML
 
