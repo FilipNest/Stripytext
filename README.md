@@ -1,6 +1,6 @@
 # Stripytext
 
-Stripytext is a little bit of JavaScript that gives your HTML font stripes. It should work with any font/style. You choose the amount of stripes and the colours (feel free to go crazy and use it for making gradients). You should even be able to animate the stripes using CSS transitions and whatever else. The stripes will scale with the font size dynamically.
+Stripytext is a little bit of JavaScript that gives your HTML fonts stripes. It should work with any font/style. You choose the amount of stripes and the colours (feel free to go crazy and use it for making gradients). You should even be able to animate the stripes using CSS transitions and whatever else. The stripes will scale with the font size dynamically.
 
 ![Stripytext](http://filipnest.com/stripytext/demoimage.png)
 
